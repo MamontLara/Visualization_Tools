@@ -79,4 +79,4 @@ Year: Analyze sales trends for selected years.
 
 Provides flexibility to customize the visualizations based on user preferences.
 
-
+[Go to the dashboard in Tableau public](https://public.tableau.com/app/profile/larysa.mamont/viz/Book1_17312481314310/SalesDashboard)
